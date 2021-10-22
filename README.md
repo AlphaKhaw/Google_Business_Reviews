@@ -22,6 +22,7 @@ This project aims to extract google reviews from a google search based the user'
 - Selenium 
 
 [Back To The Top](#outlet-google-reviews)
+
 ---
 
 ## References
