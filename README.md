@@ -27,6 +27,6 @@ This project aims to extract google reviews from a google search based the user'
 
 ## References
 
-Selenium with Python documentation <https://selenium-python.readthedocs.io/#>
+Selenium with Python documentation: <https://selenium-python.readthedocs.io/#>
 
 [Back To The Top](#outlet-google-reviews)
