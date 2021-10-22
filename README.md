@@ -1,4 +1,4 @@
-# Google Business Review
+# Google Business Reviews
 
 ---
 
@@ -21,7 +21,7 @@ Google reviews are an essential aspect to businesses as it improves Google ranki
 - Spyder (Python 3.7)
 - Selenium 
 
-[Back To The Top](#google-business-review)
+[Back To The Top](#google-business-reviews)
 
 ---
 
@@ -29,4 +29,4 @@ Google reviews are an essential aspect to businesses as it improves Google ranki
 
 Selenium with Python documentation: <https://selenium-python.readthedocs.io/#>
 
-[Back To The Top](#google-business-review)
+[Back To The Top](#google-business-reviews)
