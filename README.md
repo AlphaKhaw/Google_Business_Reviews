@@ -27,6 +27,6 @@ Google reviews are an essential aspect to businesses as it improves Google ranki
 
 ## References
 
-Selenium with Python documentation: <https://selenium-python.readthedocs.io/#>
+Selenium with Python documentation: <https://www.kaggle.com/boanxu/balance-sheet-cash-flow-analysis>
 
 [Back To The Top](#google-business-reviews)
